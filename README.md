@@ -1,22 +1,23 @@
 Hola mundo!
 
-Este es el repositorio que usaré para anotar mis pensamientos sobre la carrera...
+
+INSTRUCCIONES:
 
 
-Mi lista de cosas por hacer:
-
- - Estudiar para el examen semanal de ICC
- - Repasar teoría de Cálculo que ví en la Prepa/CCH
- - Quejarme con mis amigos porque no entiendo nada de Algebra Superior (No sé demostrar)
- - Medio entiendo Java, necesito repasar... 
-
- 
-Mis páginas para sobrellevar el cambio a linux:
-
- - https://explainshell.com/ -> Explica comandos que no entiendo
- - https://pythontutor.com/java.html -> Aprender visualmente lo que hace mi código de Java
- - https://www.overleaf.com/ -> Escribir latex si no puedo instalarlo en mi compu :(
- - https://web.fciencias.unam.mx/prv/estudiante/horario -> Para ver el horario que me dieron 
+1. usando `git log` identificar los mensajes de commit
+2. identificar la bandera
+3. :)
 
 
 
+Comandos útiles:
+
+Si me perdí entre commits:
+
+`git checkout main` -> me regresa al último commit 
+
+
+`git log -p` -> me muestra qué cambió en cada commit
+
+
+`
