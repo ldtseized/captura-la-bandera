@@ -5,6 +5,7 @@ Este es el repositorio que usaré para anotar mis pensamientos sobre la carrera.
 
 Mi lista de cosas por hacer:
 
+ - Estudiar para el examen semanal de ICC
 
 
 Mis páginas para sobrellevar el cambio a linux:
