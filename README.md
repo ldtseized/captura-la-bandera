@@ -1,1 +1,3 @@
 Hola mundo!
+
+Este es el repositorio que usaré para anotar mis pensamientos sobre la carrera...
